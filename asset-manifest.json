@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http.//priyabanait.github.io/react-style/static/css/main.50ec96bd.css",
+    "main.js": "/http.//priyabanait.github.io/react-style/static/js/main.51a436a8.js",
+    "static/js/787.f774e6b6.chunk.js": "/http.//priyabanait.github.io/react-style/static/js/787.f774e6b6.chunk.js",
+    "index.html": "/http.//priyabanait.github.io/react-style/index.html",
+    "main.50ec96bd.css.map": "/http.//priyabanait.github.io/react-style/static/css/main.50ec96bd.css.map",
+    "main.51a436a8.js.map": "/http.//priyabanait.github.io/react-style/static/js/main.51a436a8.js.map",
+    "787.f774e6b6.chunk.js.map": "/http.//priyabanait.github.io/react-style/static/js/787.f774e6b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ec96bd.css",
+    "static/js/main.51a436a8.js"
+  ]
+}
